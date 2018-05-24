@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212346809882",
+    "firebase_url": "https://daanpaatra-31fc9.firebaseio.com",
+    "project_id": "daanpaatra-31fc9",
+    "storage_bucket": "daanpaatra-31fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212346809882:android:2c1f50919eec8234",
+        "android_client_info": {
+          "package_name": "garvit.spidy.daanpaatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212346809882-hhdgoho89pupepm1dio3r0ivh3spoa82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "garvit.spidy.daanpaatra",
+            "certificate_hash": "e3707f41e729e6c8ebecf07dba00b930caac955d"
+          }
+        },
+        {
+          "client_id": "212346809882-d8og71bmc25appr7ld6tucln1gotj1s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxK7SY8bCgJU-eZJwZAp1arcq2TVpItGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212346809882-d8og71bmc25appr7ld6tucln1gotj1s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
